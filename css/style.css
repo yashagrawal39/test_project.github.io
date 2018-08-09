@@ -1,0 +1,35 @@
+.p1:hover
+{
+	
+	color:red;
+}
+.p1
+{
+ font-size:25px;
+ color:#000080;
+ font-family:Rockwell;
+ text-decoration:none;
+ font-style:bold;
+ 
+}
+
+#fieldset
+{
+ margin-left:30%;
+margin-right:30%; 
+font-size:30px;
+color:white;
+}
+#form
+{
+	height:100%;
+	width:100%;
+	color:white;
+	font-variant:small-caps;
+}
+label
+{
+	font-size:20px;
+	margin:5px 25px 5px 25px;
+	color:white;
+}
